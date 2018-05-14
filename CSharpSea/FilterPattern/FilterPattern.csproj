@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{59AAB6A5-53DA-4F62-9D82-404C6E5FBB0C}</ProjectGuid>
+    <ProjectGuid>{10B163CB-5F2C-4553-9D89-EBD9DFF58C09}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BridgePattern</RootNamespace>
-    <AssemblyName>BridgePattern</AssemblyName>
+    <RootNamespace>FilterPattern</RootNamespace>
+    <AssemblyName>FilterPattern</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,15 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlueRectangle.cs" />
-    <Compile Include="Circle.cs" />
-    <Compile Include="DrawAPI.cs" />
-    <Compile Include="GreenCircle.cs" />
+    <Compile Include="AndCriteria.cs" />
+    <Compile Include="Criteria.cs" />
+    <Compile Include="CriteriaFemale.cs" />
+    <Compile Include="CriteriaMale.cs" />
+    <Compile Include="CriteriaSingle.cs" />
+    <Compile Include="OrCriteria.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Rectangle.cs" />
-    <Compile Include="RedCircle.cs" />
-    <Compile Include="Shape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

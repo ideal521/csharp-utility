@@ -1,0 +1,7 @@
+D:\07Projectes\Other\csharp-utility\CSharpSea\BridgePattern\bin\Debug\BridgePattern.exe.config
+D:\07Projectes\Other\csharp-utility\CSharpSea\BridgePattern\bin\Debug\BridgePattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\BridgePattern\bin\Debug\BridgePattern.pdb
+D:\07Projectes\Other\csharp-utility\CSharpSea\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\BridgePattern\obj\Debug\BridgePattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\BridgePattern\obj\Debug\BridgePattern.pdb

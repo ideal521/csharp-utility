@@ -1,0 +1,7 @@
+D:\07Projectes\Other\csharp-utility\CSharpSea\FilterPattern\obj\Debug\FilterPattern.csprojResolveAssemblyReference.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\FilterPattern\obj\Debug\FilterPattern.csproj.CoreCompileInputs.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\FilterPattern\bin\Debug\FilterPattern.exe.config
+D:\07Projectes\Other\csharp-utility\CSharpSea\FilterPattern\bin\Debug\FilterPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\FilterPattern\bin\Debug\FilterPattern.pdb
+D:\07Projectes\Other\csharp-utility\CSharpSea\FilterPattern\obj\Debug\FilterPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\FilterPattern\obj\Debug\FilterPattern.pdb
