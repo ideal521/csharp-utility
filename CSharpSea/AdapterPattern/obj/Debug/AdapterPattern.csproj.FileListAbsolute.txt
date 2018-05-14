@@ -1,0 +1,6 @@
+D:\07Projectes\Other\csharp-utility\CSharpSea\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\07Projectes\Other\csharp-utility\CSharpSea\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\07Projectes\Other\csharp-utility\CSharpSea\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\AdapterPattern\obj\Debug\AdapterPattern.pdb

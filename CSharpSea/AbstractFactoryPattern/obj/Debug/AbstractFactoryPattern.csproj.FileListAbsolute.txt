@@ -1,0 +1,7 @@
+D:\07Projectes\Other\csharp-utility\CSharpSea\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+D:\07Projectes\Other\csharp-utility\CSharpSea\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+D:\07Projectes\Other\csharp-utility\CSharpSea\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

@@ -1,0 +1,7 @@
+D:\07Projectes\Other\csharp-utility\CSharpSea\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+D:\07Projectes\Other\csharp-utility\CSharpSea\PrototypePattern\bin\Debug\PrototypePattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\PrototypePattern\bin\Debug\PrototypePattern.pdb
+D:\07Projectes\Other\csharp-utility\CSharpSea\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\PrototypePattern\obj\Debug\PrototypePattern.csproj.CoreCompileInputs.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\PrototypePattern\obj\Debug\PrototypePattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\PrototypePattern\obj\Debug\PrototypePattern.pdb

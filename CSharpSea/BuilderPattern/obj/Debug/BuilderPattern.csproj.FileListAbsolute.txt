@@ -1,0 +1,7 @@
+D:\07Projectes\Other\csharp-utility\CSharpSea\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+D:\07Projectes\Other\csharp-utility\CSharpSea\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\07Projectes\Other\csharp-utility\CSharpSea\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\BuilderPattern\obj\Debug\BuilderPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\BuilderPattern\obj\Debug\BuilderPattern.pdb

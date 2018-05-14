@@ -1,0 +1,7 @@
+D:\07Projectes\Other\csharp-utility\CSharpSea\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\07Projectes\Other\csharp-utility\CSharpSea\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\07Projectes\Other\csharp-utility\CSharpSea\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\07Projectes\Other\csharp-utility\CSharpSea\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\07Projectes\Other\csharp-utility\CSharpSea\FactoryPattern\obj\Debug\FactoryPattern.pdb
